@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "userAddressList": [
+      {
+        "id":0,
+        "userAddress": "陕西省陕西省陕西省'陕西省陕西省西安",
+        "phone":12345471245,
+        "name":"陈东阳",
+        "isDefault":1
+      },
+       {
+        "id":1,
+        "userAddress": "北京市天安门",
+        "phone":89724245645,
+        "name":"程鹏乐",
+        "isDefault":0
+      },
+       {
+        "id":2,
+        "userAddress": "山西省大同市",
+        "phone":56459724672,
+        "name":"张三",
+        "isDefault":0
+      }
+   
+      ],
+     "detailArrayList":[
+      {
+        "id":0,
+        "skuName": "奶瓶",
+        "imgUrl": "https://image.so.com/view?q=%E5%95%86%E5%93%81%E5%9B%BE%E7%89%87&src=tab_www&correct=%E5%95%86%E5%93%81%E5%9B%BE%E7%89%87&ancestor=list&cmsid=fe9711a48ee296067e65807fcaf429f8&cmras=6&cn=0&gn=0&kn=0&crn=0&bxn=20&fsn=80&cuben=0&pornn=0&manun=0&adstar=0&clw=247#id=c2f55805316462fa9e1a38458cd17e89&currsn=0&ps=88&pc=88",
+        "orderPrice": 599,
+        "skuNum": 1
+      },
+      {
+        "id":1,
+        "skuName": "鼠标",
+        "imgUrl": "https://p0.ssl.qhimgs1.com/sdr/400__/t01e122b709d76b5e5e.jpg",
+        "orderPrice": 59,
+        "skuNum": 1
+      },
+      {
+        "id":2,
+        "skuName": "鸡蛋",
+        "imgUrl": "https://p2.ssl.qhimgs1.com/t01e54f5c8ead12f6b2.jpg",
+        "orderPrice": 9,
+        "skuNum": 5
+      }
+     ]
+     
+  }
+}
