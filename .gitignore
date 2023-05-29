@@ -18,6 +18,11 @@ pnpm-debug.log*
 .vscode
 *.suo
 *.ntvs*
-*.njsproj
+*.njspro
 *.sln
 *.sw?
+s
+*.pyc
+*.swp
+*.bak
+config
