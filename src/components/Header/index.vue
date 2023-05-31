@@ -60,10 +60,12 @@ export default {
   methods: {
     goSearch () {
       if (this.$route.query) {
+        console.log(this.$route.query);
         let location = { name: 'find', params: { keyword: this.keyword || undefined } }
         location.query = this.$route.query
         this.$router.push(location)
       }
+  
       // this.keyword = undefined
       //  document.getElementById('autocomplete').value=''
     },

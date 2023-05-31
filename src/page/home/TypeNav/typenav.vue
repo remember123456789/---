@@ -76,7 +76,6 @@ export default {
     changeindex: _.throttle(function (index) {
       this.currentIndex = index
     }, 40),
-
     moveindex (index) {
       this.currentIndex = -1
       //进行判断如果在home页面 鼠标移出show不改变还是true
