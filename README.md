@@ -15,10 +15,9 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### 项目的完整笔记我上传到了掘金上
+https://juejin.cn/post/7236010330051117116
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
